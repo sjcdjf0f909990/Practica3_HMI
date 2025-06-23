@@ -50,7 +50,7 @@ Diseñada en STONE Designer GUI. Cada SpinBox envía su valor correspondiente a 
 
 ## 🚀 Cómo usar
 
-1. Cargar el código `P3_PWM_HMI.ino` al Controllino Mega desde el Arduino IDE.
+1. El código fuente del Controllino se encuentra en el archivo [`P3_LED_PWM.ino`](./P3_LED_PWM.ino), que implementa el control de dos LEDs con PWM mediante una interfaz HMI y botones físicos.
 2. Conectar la HMI vía Serial2 al Controllino.
 3. Ejecutar el proyecto cargado en la HMI.
 4. Usar los botones físicos para activar/desactivar LEDs.
