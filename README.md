@@ -1,6 +1,6 @@
 # Práctica 3 - Control de salidas PWM mediante HMI en Controllino
 
-Este repositorio contiene el desarrollo completo de la **Práctica 3: Diseño de interfaz gráfica para el control de salidas en Controllino**, cuyo objetivo es controlar el brillo de dos LEDs a través de modulación PWM, utilizando una interfaz HMI (Human-Machine Interface) tipo SpinBox, comunicada vía serial con un Controllino Mega.
+Se presenta el desarrollo completo de la **Práctica 3: Diseño de interfaz gráfica para el control de salidas en Controllino**, cuyo objetivo es controlar el brillo de dos LEDs a través de modulación PWM, utilizando una interfaz HMI (Human-Machine Interface) tipo SpinBox, comunicada vía serial con un Controllino Mega.
 
 ---
 
