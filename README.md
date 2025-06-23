@@ -44,7 +44,7 @@ Diseñar un sistema que permita ajustar la intensidad de brillo de dos LEDs en u
 
 ![Interfaz HMI PWM](imagen_hmi.jpg)
 
-Diseñada en STONE Designer GUI. Cada SpinBox envía su valor correspondiente a través de la interfaz serial al microcontrolador.
+Diseñada en **STONE Designer GUI**. Cada SpinBox envía su valor correspondiente a través de la interfaz serial al microcontrolador. El archivo de configuración de la interfaz puede descargarse aquí: [Practica3.st](Practica3.st)
 
 ---
 
