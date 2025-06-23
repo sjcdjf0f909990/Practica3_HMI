@@ -66,10 +66,9 @@ Diseñada en STONE Designer GUI. Cada SpinBox envía su valor correspondiente a 
 
 ## 🔗 Créditos
 
-Desarrollado por: [Anthony Dominguez, Sebastian Guazhima]
-Curso: [Control Digital]  
-Fecha: [22/06/2025]
-
+Desarrollado por: Anthony Dominguez, Sebastian Guazhima
+Curso: Control Digital  
+Fecha: 22/06/2025
 ---
 
 
