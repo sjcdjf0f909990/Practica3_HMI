@@ -57,13 +57,6 @@ Diseñada en **STONE Designer GUI**. Cada SpinBox envía su valor correspondient
 5. Ajustar los valores de los SpinBoxes para modificar el duty cycle (0–100%).
 
 ---
-
-## 📎 Enlace del informe IEEE
-
-(Agregar aquí el enlace cuando esté disponible o subirlo al repositorio si es requerido)
-
----
-
 ## 🔗 Créditos
 
 Desarrollado por: Anthony Dominguez, Sebastian Guazhima
